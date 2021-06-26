@@ -17,7 +17,6 @@ How to download opencv module -
 
 - Image segmentation and dominant color extractions using the k-means algorithm
 
-<br/>
-To explore more about the algorithms - 
-[click here]( https://www.mygreatlearning.com/blog/hierarchical-clustering ) <br/>
-[or here](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
+- To explore more about the algorithms: 
+    - [heirarchical clustering]( https://www.mygreatlearning.com/blog/hierarchical-clustering ) <br/>
+    - [k-means clustering](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
